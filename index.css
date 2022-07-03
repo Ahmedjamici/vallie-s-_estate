@@ -53,3 +53,19 @@
     font-size: 30px;
     font-style: italic;
   }
+  .home{
+    display: flex;
+    text-align: center;
+   padding: 30px;
+  }
+  .home p{
+    font-size: 60px;
+    padding-left: 100px;
+    font-family:  Oleo Script;
+  }
+  .home img{
+    height: 450px;
+    width: 950px;
+    padding-left: 200px;
+    
+  }
